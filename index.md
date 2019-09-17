@@ -153,7 +153,7 @@ This block displays the date and links to Google Calendar.
 
 <!-- See how this position works for notifying about this being a 4-day workshop.  MVC 9-17-19 -->
 
-<p>Please note: This workshop is spread over <strong>four days</strong> in November. Before registering, we ask participants be able to <u>commit to <strong>three of the four days</b></u> at least.</p>
+<p>Please note: This workshop is spread over <strong>four days</strong> in November. Before registering, we ask participants be able to <u>commit to <strong>three of the four days</strong></u> at least.</p>
 {% endif %}
 
 {% comment %}
