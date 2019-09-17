@@ -69,6 +69,26 @@ displayed if the 'eventbrite' field in the header is not set.
 </iframe>
 {% endif %}
 
+<!-- MADISON:  Go back in and insert active link @href 9-17-19 -->
+
+<!-- Place the following link anywhere in your page. Make sure the id "s_lc_event_5584425" matches with the above code: jQuery("#s_lc_event_5584425")  //-->
+<a id="s_lc_event_5584425" href="#">CLICK TO REGISTER</a>
+<!-- Below is optional element styling  //-->
+<style>
+#s_lc_event_5584425 {
+  background: #FF6600;
+  border: 1px solid #DFDFDF;
+  border-radius: 4px;
+  color: white;
+  font: 18px Arial, Helvetica, Verdana;
+  padding: 8px 20px;
+  cursor: pointer;
+}
+#s_lc_event_5584425:hover {
+  opacity: 0.9;
+}
+</style>
+
 
 <h2 id="general">General Information</h2>
 
