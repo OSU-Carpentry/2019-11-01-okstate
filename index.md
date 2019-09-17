@@ -150,6 +150,10 @@ This block displays the date and links to Google Calendar.
   {{page.humandate}}.
   {% include workshop_calendar.html %}
 </p>
+
+<!-- See how this position works for notifying about this being a 4-day workshop.  MVC 9-17-19 -->
+
+<p>Please note: This workshop is spread over four days in November. Before registering, we ask participants be able to commit to three of the four days at least.</p>
 {% endif %}
 
 {% comment %}
